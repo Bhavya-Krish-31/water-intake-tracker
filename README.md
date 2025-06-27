@@ -1,13 +1,9 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
-
-# Water Intake Tracker
+# 💧 Water Intake Tracker
 
 A simple and intuitive web app to help you track your daily water intake. Built with **HTML**, **CSS**, and **JavaScript**.
+
+## 🚀 Try it now  
+👉 [https://my-water-intake-tracker.netlify.app](https://my-water-intake-tracker.netlify.app)
 
 ---
 
@@ -20,14 +16,17 @@ A simple and intuitive web app to help you track your daily water intake. Built 
 
 ---
 
-## Demo
-
-Try it out by opening the `index.html` file in your browser!
-
----
-
 ## Installation
 
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Bhavya-Krish-31/water-intake-tracker.git
+
+2. Run the App:
+   You can open the app directly in your browser:
+   start index.html     # Windows
+   # OR
+   open index.html      # macOS
+   # Or
+   just drag index.html into any browser window.
+
