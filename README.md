@@ -25,8 +25,8 @@ A simple and intuitive web app to help you track your daily water intake. Built 
 2. Run the App:
    You can open the app directly in your browser:
    start index.html     # Windows
-   # OR
+   OR
    open index.html      # macOS
-   # Or
+   OR
    just drag index.html into any browser window.
 
